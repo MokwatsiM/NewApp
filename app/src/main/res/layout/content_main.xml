@@ -23,17 +23,6 @@
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/edtPaswordDetails"
-        android:hint="Enter password"
-        android:layout_above="@+id/btnLogin"
-        android:layout_alignRight="@+id/edtUsername"
-        android:layout_alignEnd="@+id/edtUsername"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
-
-    <EditText
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
         android:id="@+id/edtUsername"
         android:hint="Enter Username"
         android:layout_above="@+id/btnLogin"
